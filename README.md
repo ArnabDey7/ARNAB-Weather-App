@@ -1,1 +1,2 @@
-# This is a weather web-app using HTML,CSS and JAVASCRIPT
+# WeatherApplication
+A simple weather application using the openweather API.
